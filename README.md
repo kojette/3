@@ -1,1 +1,1 @@
-First commit
+Initial project setup
